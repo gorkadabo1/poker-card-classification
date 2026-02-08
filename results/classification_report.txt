@@ -1,0 +1,59 @@
+                   precision    recall  f1-score   support
+
+     ace of clubs     1.0000    1.0000    1.0000         5
+  ace of diamonds     1.0000    1.0000    1.0000         5
+    ace of hearts     1.0000    1.0000    1.0000         5
+    ace of spades     1.0000    1.0000    1.0000         5
+   eight of clubs     1.0000    1.0000    1.0000         5
+eight of diamonds     1.0000    1.0000    1.0000         5
+  eight of hearts     1.0000    1.0000    1.0000         5
+  eight of spades     1.0000    1.0000    1.0000         5
+    five of clubs     1.0000    1.0000    1.0000         5
+ five of diamonds     1.0000    1.0000    1.0000         5
+   five of hearts     1.0000    1.0000    1.0000         5
+   five of spades     1.0000    1.0000    1.0000         5
+    four of clubs     1.0000    1.0000    1.0000         5
+ four of diamonds     1.0000    1.0000    1.0000         5
+   four of hearts     1.0000    1.0000    1.0000         5
+   four of spades     1.0000    1.0000    1.0000         5
+    jack of clubs     1.0000    1.0000    1.0000         5
+ jack of diamonds     1.0000    1.0000    1.0000         5
+   jack of hearts     1.0000    1.0000    1.0000         5
+   jack of spades     1.0000    1.0000    1.0000         5
+            joker     1.0000    1.0000    1.0000         5
+    king of clubs     1.0000    1.0000    1.0000         5
+ king of diamonds     1.0000    1.0000    1.0000         5
+   king of hearts     1.0000    1.0000    1.0000         5
+   king of spades     1.0000    1.0000    1.0000         5
+    nine of clubs     1.0000    1.0000    1.0000         5
+ nine of diamonds     1.0000    1.0000    1.0000         5
+   nine of hearts     1.0000    1.0000    1.0000         5
+   nine of spades     1.0000    1.0000    1.0000         5
+   queen of clubs     1.0000    1.0000    1.0000         5
+queen of diamonds     1.0000    1.0000    1.0000         5
+  queen of hearts     1.0000    1.0000    1.0000         5
+  queen of spades     1.0000    1.0000    1.0000         5
+   seven of clubs     1.0000    1.0000    1.0000         5
+seven of diamonds     1.0000    1.0000    1.0000         5
+  seven of hearts     1.0000    1.0000    1.0000         5
+  seven of spades     1.0000    1.0000    1.0000         5
+     six of clubs     1.0000    1.0000    1.0000         5
+  six of diamonds     1.0000    1.0000    1.0000         5
+    six of hearts     1.0000    1.0000    1.0000         5
+    six of spades     1.0000    1.0000    1.0000         5
+     ten of clubs     1.0000    1.0000    1.0000         5
+  ten of diamonds     1.0000    1.0000    1.0000         5
+    ten of hearts     1.0000    1.0000    1.0000         5
+    ten of spades     1.0000    1.0000    1.0000         5
+   three of clubs     1.0000    1.0000    1.0000         5
+three of diamonds     1.0000    1.0000    1.0000         5
+  three of hearts     1.0000    1.0000    1.0000         5
+  three of spades     1.0000    1.0000    1.0000         5
+     two of clubs     1.0000    1.0000    1.0000         5
+  two of diamonds     1.0000    1.0000    1.0000         5
+    two of hearts     1.0000    1.0000    1.0000         5
+    two of spades     1.0000    1.0000    1.0000         5
+
+         accuracy                         1.0000       265
+        macro avg     1.0000    1.0000    1.0000       265
+     weighted avg     1.0000    1.0000    1.0000       265
